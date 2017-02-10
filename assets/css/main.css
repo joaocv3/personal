@@ -527,7 +527,7 @@ img {
 /* Blog Section End */
 /* Feedback Section Start */
 #feedback {
-  background: url(../img/backgrounds/imgfooter.jpg);
+/*  background: url(../img/backgrounds/imgfooter.jpg); */
   background-size: cover;
 }
 #feedback .section-title {
