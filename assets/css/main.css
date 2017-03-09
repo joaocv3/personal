@@ -684,6 +684,28 @@ img {
   background: #007bb6;
   border: 1px solid #007bb6;
 }
+
+#feedback .address .social-icon li a .fa-linkedin:hover {
+  background: #007bb6;
+  border: 1px solid #007bb6;
+}
+
+#feedback .address .social-icon li a .fa-linkedin:hover {
+  background: #007bb6;
+  border: 1px solid #007bb6;
+}
+#feedback .address .social-icon li a .fa-github:hover {
+  background: #24292E;
+  border: 1px solid #24292E;
+}
+#feedback .address .social-icon li a .fa-envelope-o:hover {
+  background: #bb0000;
+  border: 1px solid #bb0000;
+}
+#feedback .address .social-icon li a .fa-skype:hover {
+  background: #00AFF0;
+  border: 1px solid #00AFF0;
+}
 /* Feedback Section End */
 /* Footer Section Start */
 #footer {
