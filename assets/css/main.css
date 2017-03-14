@@ -706,6 +706,10 @@ img {
   background: #00AFF0;
   border: 1px solid #00AFF0;
 }
+#feedback .address .social-icon li a .fa-file-pdf-o:hover {
+  background: #FF0000;
+  border: 1px solid #FF0000;
+}
 /* Feedback Section End */
 /* Footer Section Start */
 #footer {
