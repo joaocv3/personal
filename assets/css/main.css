@@ -710,6 +710,10 @@ img {
   background: #FF0000;
   border: 1px solid #FF0000;
 }
+#feedback .address .social-icon li a .fa-language:hover {
+  background: #FFAA33;
+  border: 1px solid #FFAA33;
+}
 /* Feedback Section End */
 /* Footer Section Start */
 #footer {
